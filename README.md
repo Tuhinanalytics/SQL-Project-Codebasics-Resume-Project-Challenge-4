@@ -6,7 +6,7 @@ This is my submission for the Codebasics Resume Project Challenge #4. All the ke
 2️⃣**Domain:** Consumer Goods
 
 3️⃣**Function:** Executive Management
-## About Company: 
+## About the Company: 
 **Atliq Hardwares** (imaginary company) is one of India's leading computer hardware producers and well expanded in other countries.
 ## Problem Statement:
 The management noticed they do not get enough insights to make quick, smart data-informed decisions. They decided to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director, wanted to hire someone good at tech and soft skills. Hence, he decided to conduct a SQL challenge which will help him understand both skills.
