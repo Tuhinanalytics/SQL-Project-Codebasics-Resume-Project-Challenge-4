@@ -13,7 +13,7 @@ The management noticed they do not get enough insights to make quick, smart data
 ## Task:
 1️⃣There are 10 ad hoc requests for which the business needs insights.
 
-2️⃣Our Task is to run a SQL queries to answer these requests. 
+2️⃣Our Task is to run SQL queries to answer these requests. 
 
 3️⃣The target audience of this dashboard is top-level management, hence we need to create a presentation to show the insights.
 
